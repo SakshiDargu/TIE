@@ -1,0 +1,13 @@
+__pycache__/
+build/
+dist/
+sdist/
+*.egg-info/
+coverage.xml
+docs/_build/
+.mypy_cache/
+*.tmp
+TODO*
+.DS_Store
+.pre-commit-config.yaml
+.vscode/
